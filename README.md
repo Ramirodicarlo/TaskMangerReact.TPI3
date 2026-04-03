@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+This project is the frontend of a fullstack application.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+👉 Backend API:
+https://github.com/Ramirodicarlo/TaskManager.TPI3
 
 ## Available Scripts
 
