@@ -60,5 +60,10 @@ git clone https://github.com/Ramirodicarlo/TaskMangerReact.TPI3
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+# Future Improvements
+. Improve UI/UX design
+. Error handling improvements
+. Deployment (Vercel / Netlify)
+
 # TPIP3
 Integrantes: Ramiro Di Carlo, Franco Garcia
